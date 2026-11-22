@@ -3,7 +3,7 @@ from app.services import analyze_work_log
 from app.exceptions import WorkLogBaseError
 
 def main():
-    """Головна точка входу в програму «Дневник программиста на удаленке»."""
+    """Головна точка входу в програму «Щоденник програміста на віддаленці — Кава проти Сну»."""
     try:
         # Зчитуємо та перевіряємо дані з CSV-файлу
         records = load_work_log()
