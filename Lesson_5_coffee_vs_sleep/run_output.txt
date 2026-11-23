@@ -57,4 +57,49 @@ PS C:\Users\nshka\Desktop\Digital Upskilling and Reskilling for Ukrainian Women 
 
 === (в) Запуск при перейменованому файлі даних ===
 PS C:\Users\nshka\Desktop\Digital Upskilling and Reskilling for Ukrainian Women Refugees\2 модуль_Python\First_project\Lesson_5_coffee_vs_sleep> python main.py
-[КРИТИЧНА ПОМИЛКА ПРОЄКТУ] Файл даних не знайдено за шляхом: C:\Users\nshka\Desktop\Digital Upskilling and Reskilling for Ukrainian Women Refugees\2 модуль_Python\First_project\Lesson_5_coffee_vs_sleep\data\work_log.csv
+[КРИТИЧНА ПОМИЛКА ПРОЄКТУ] Файл даних не знайдено за шляхом: C:\Users\nshka\Desktop\Digital Upskilling and Reskilling for Ukrainian Women Refugees\2 модуль_Python\First_project\Lesson_5_coffee_vs_sleep\data\work_log.csv=== 2. ЗАПУСК З ІНШОЇ ПАПКИ ===
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 4: ═хъюЁхъЄэх чэрўхээ  уюфшэ ёэє -> 'ьрыю'
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 6: ╩│ы№ъ│ёЄ№ ъртш эх ьюцх сєЄш т│ф'║ьэю■ -> -1
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 9: ═хфюяєёЄшьр ъ│ы№ъ│ёЄ№ уюфшэ ёэє -> 26.0
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 10: ═хъюЁхъЄэх чэрўхээ  ўр°юъ ъртш -> ''
+
+--- └═└╦▓╟ ─═▀ ╧╨╬├╨└╠▓╤╥└: ╩╬╘┼ ╧╨╬╥╚ ╤═└ ---
+
+─хэ№: Monday | ╤юэ: 7.5 уюф | ╩ртр: 2 ўр°. | ╩юф: 140 Ё фъ│т
+
+─хэ№: Tuesday | ╤юэ: 6.0 уюф | ╩ртр: 4 ўр°. | ╩юф: 185 Ё фъ│т
+
+─хэ№: Wednesday | ╤юэ: 2.5 уюф | ╩ртр: 0 ўр°. | ╩юф: 30 Ё фъ│т
+[╧╬╠╚╦╩└ ╬┴╨╬┴╩╚ ─└═╚╒] 'charmap' codec can't encode character '\U0001f9df' in position 2: character maps to <undefined>
+=== 2. ЗАПУСК З ІНШОЇ ПАПКИ ===
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 4: ═хъюЁхъЄэх чэрўхээ  уюфшэ ёэє -> 'ьрыю'
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 6: ╩│ы№ъ│ёЄ№ ъртш эх ьюцх сєЄш т│ф'║ьэю■ -> -1
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 9: ═хфюяєёЄшьр ъ│ы№ъ│ёЄ№ уюфшэ ёэє -> 26.0
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 10: ═хъюЁхъЄэх чэрўхээ  ўр°юъ ъртш -> ''
+
+--- └═└╦▓╟ ─═▀ ╧╨╬├╨└╠▓╤╥└: ╩╬╘┼ ╧╨╬╥╚ ╤═└ ---
+
+─хэ№: Monday | ╤юэ: 7.5 уюф | ╩ртр: 2 ўр°. | ╩юф: 140 Ё фъ│т
+
+─хэ№: Tuesday | ╤юэ: 6.0 уюф | ╩ртр: 4 ўр°. | ╩юф: 185 Ё фъ│т
+
+─хэ№: Wednesday | ╤юэ: 2.5 уюф | ╩ртр: 0 ўр°. | ╩юф: 30 Ё фъ│т
+[╧╬╠╚╦╩└ ╬┴╨╬┴╩╚ ─└═╚╒] 'charmap' codec can't encode character '\U0001f9df' in position 2: character maps to <undefined>
+=== 3. ЗАПУСК БЕЗ ФАЙЛУ ДАНИХ ===
+[╧╬╠╚╦╩└ ╘└╔╦╙ ─└═╚╒] ╘рщы фрэшї эх чэрщфхэю чр °ы їюь: C:\Users\nshka\Desktop\Digital Upskilling and Reskilling for Ukrainian Women Refugees\2 ьюфєы№_Python\First_project\Lesson_5_coffee_vs_sleep\data\work_log.csv
+=== 2. RUN FROM ANOTHER FOLDER ===
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 4: ═хъюЁхъЄэх чэрўхээ  уюфшэ ёэє -> 'ьрыю'
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 6: ╩│ы№ъ│ёЄ№ ъртш эх ьюцх сєЄш т│ф'║ьэю■ -> -1
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 9: ═хфюяєёЄшьр ъ│ы№ъ│ёЄ№ уюфшэ ёэє -> 26.0
+[╧╬╧┼╨┼─╞┼══▀ ╙ ─└═╚╒] ╨ фюъ 10: ═хъюЁхъЄэх чэрўхээ  ўр°юъ ъртш -> ''
+
+--- └═└╦▓╟ ─═▀ ╧╨╬├╨└╠▓╤╥└: ╩╬╘┼ ╧╨╬╥╚ ╤═└ ---
+
+─хэ№: Monday | ╤юэ: 7.5 уюф | ╩ртр: 2 ўр°. | ╩юф: 140 Ё фъ│т
+
+─хэ№: Tuesday | ╤юэ: 6.0 уюф | ╩ртр: 4 ўр°. | ╩юф: 185 Ё фъ│т
+
+─хэ№: Wednesday | ╤юэ: 2.5 уюф | ╩ртр: 0 ўр°. | ╩юф: 30 Ё фъ│т
+[╧╬╠╚╦╩└ ╬┴╨╬┴╩╚ ─└═╚╒] 'charmap' codec can't encode character '\U0001f9df' in position 2: character maps to <undefined>
+=== 3. RUN WITHOUT DATA FILE ===
+[╧╬╠╚╦╩└ ╘└╔╦╙ ─└═╚╒] ╘рщы фрэшї эх чэрщфхэю чр °ы їюь: C:\Users\nshka\Desktop\Digital Upskilling and Reskilling for Ukrainian Women Refugees\2 ьюфєы№_Python\First_project\Lesson_5_coffee_vs_sleep\data\work_log.csv

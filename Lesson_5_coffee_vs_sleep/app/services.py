@@ -31,8 +31,14 @@ def analyze_work_log(records):
         if "Friday" in day and coffee >= 4:
             print("  🚨 П'ЯТНИЧНИЙ ДЕПЛОЙ: Обережно! Кава у п'ятницю ввечері провокує бажання залити сирий код у прод перед вихідними. Відійдіть від кавомашини!")
 
+    try:
+        avg_coffee = total_coffee / days_count
+    except ZeroDivisionError:
+        avg_coffee = 0.0
+        print("\n[ПОПЕРЕДЖЕННЯ] Немає записів для обчислення середньої кількості чашок кави.")
+
     if days_count > 0:
         print("\n--- ПІДСУМКИ ТИЖНЯ ---")
         print(f"Середній сон: {total_sleep / days_count:.1f} год/день")
-        print(f"Загалом випито кави: {total_coffee} чашок")
+        print(f"Загалом випито кави: {total_coffee} чашок (у середньому {avg_coffee:.1f} чаш./день)")
         print(f"Загалом написано рядків коду: {total_lines}")
