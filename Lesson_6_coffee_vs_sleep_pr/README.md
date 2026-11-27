@@ -4,8 +4,15 @@
 
 ## Як запустити локально
 
-```bash
 python -m venv .venv
 .venv\Scripts\activate
 python -m pip install -r requirements.txt
 streamlit run streamlit_app.py
+
+## Тести
+
+python -m pytest -v
+
+## Онлайн-версія
+
+https://cofffeevssleep.streamlit.app/
