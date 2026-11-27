@@ -105,3 +105,23 @@ def get_day_alerts(row):
         )
 
     return alerts
+
+
+def analyze_work_log(records):
+    """Виводить у консоль підсумок сну, кави та попереджень по днях."""
+    cleaned = deduplicate_days(records)
+    summary = summarize_records(cleaned)
+
+    print("=== АНАЛІЗ ДНЯ ПРОГРАМІСТА: КАВА ПРОТИ СНУ ===")
+    print(f"Днів у звіті: {summary['days_count']}")
+    print(f"Середній сон: {summary['avg_sleep']} год")
+    print(f"Усього кави: {summary['total_coffee']} чашок")
+
+    for row in cleaned:
+        alerts = get_day_alerts(row)
+        print(
+            f"- {row['day']}: сон {row['hours_slept']} год, "
+            f"кава {row['coffee_cups']} чашок"
+        )
+        for alert in alerts:
+            print(f"  {alert}")
