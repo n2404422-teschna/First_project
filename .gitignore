@@ -1,0 +1,11 @@
+# Віртуальне оточення
+.venv/
+
+# Службові файли Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Секрети та локальні налаштування
+.env
+.streamlit/secrets.toml

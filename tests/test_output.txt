@@ -1,0 +1,13 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.14.8, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\nshka\Desktop\Digital Upskilling and Reskilling for Ukrainian Women Refugees\2 ьюфєы№_Python\First_project\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\nshka\Desktop\Digital Upskilling and Reskilling for Ukrainian Women Refugees\2 ьюфєы№_Python\First_project\Lesson_6_coffee_vs_sleep_pr
+plugins: anyio-4.16.0, platformdirs-4.13.5
+collecting ... collected 4 items
+
+tests/test_services.py::test_deduplicate_days_keeps_latest_and_orders_week PASSED [ 25%]
+tests/test_services.py::test_validate_day_entry PASSED                   [ 50%]
+tests/test_services.py::test_filter_and_summarize_five_days PASSED       [ 75%]
+tests/test_services.py::test_get_day_alerts PASSED                       [100%]
+
+============================== 4 passed in 0.06s ==============================
